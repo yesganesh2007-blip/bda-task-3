@@ -134,4 +134,4 @@ Computed for all key numerical attributes — `Sales`, `Quantity`, `Discount`, `
 
 **Ganesh Ram**
 Student, Kamaraj College, Thoothukudi
-Focus areas: Frontend Web Development & AI/ML
+
