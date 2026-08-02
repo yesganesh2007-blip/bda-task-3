@@ -135,4 +135,4 @@ Computed for all key numerical attributes — `Sales`, `Quantity`, `Discount`, `
 **Ganesh Ram**
 Student, Kamaraj College, Thoothukudi
 
-
+<img width="1824" height="9814" alt="bda task 3" src="https://github.com/user-attachments/assets/7e7b23ee-719f-41b4-8179-8f964ac97c20" /># Superstore Sales — Data Understanding, Cleaning & Exploratory Analysis
